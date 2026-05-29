@@ -7,7 +7,7 @@ This project analyzes mental health trends in the tech industry using the OSMI d
 ![Dashboard](dashboard.png)
 
 ## 🎥 Demo Video
-https://www.loom.com/share/your-video-link
+[Click here to watch the demo](demo.mp4)
 
 ## 🔍 Key Insights
 - Treatment varies across gender
